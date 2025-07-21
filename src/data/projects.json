@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Website-based Simon Game ",
+    "imageSrc": "projects/SimonGame.jpg",
+    "description": "The game involves a sequence of colored buttons that light up and play sounds, which the player needs to replicate. ",
+    "skills": ["Javascript", "CSS", "HTML"],
+    "LiveLink": "https://aniket-simongame.netlify.app/"
+  },
+  {
+    "title": "Currency-Converter App ",
+    "imageSrc": "projects/curr.png",
+    "description": "A website that convert one Country’s Currency into another one.Goal to learn various React concept through this project",
+    "skills": ["React", "Javascript", "CSS", "BOOTSTRAP"],
+     "LiveLink": "https://aniket-currencyconverter.netlify.app/"
+  },
+  {
+    "title": "Tic-Tac-Toe Game ",
+    "imageSrc": "projects/tictoe.jpg",
+    "description": "Tic-tac-toe is a classic two-player game played on a 3x3 grid. Players take turns marking either an X or an O in an empty square. Always Gives Notalgic feel",
+     "skills": ["React", "Javascript", "CSS", "BOOTSTRAP"],
+    "LiveLink": "https://6839f471572570a6fd28612d--anikettictactoe.netlify.app/"
+  }
+]
