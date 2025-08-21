@@ -1,23 +1,23 @@
 [
   {
+    "title": "BookVerse",
+    "imageSrc": "projects/hero.png",
+    "description": "Designed and developed a full stack online bookstore with admin functionalities.Built a responsive frontend using HTML, CSS, JavaScript, and Tailwind for smooth UX across all devices.Developed a robust backend API using Node.js and Express.js to handle book data, user operations, and server logic.Integrated MongoDB database for storing book inventory, user information, and order  ",
+    "skills": ["Javascript", "Node js", "Express js" , "MongoDB" , "React js" , "Tailwind"],
+    "LiveLink": "https://effulgent-empanada-020b5f.netlify.app"
+  },
+  {
+    "title": "VocaHire - Al Voice Interview Platform",
+    "imageSrc": "projects/ai.png",
+    "description": "Built a real-time Al voice interview platform using Next.js and Vapi.Integrated voice streaming and Al response via Vapi SDK.Designed responsive UI with Tailwind CSS.Used Firebase for auth and real-time data storage.",
+      "skills": ["Next js", "Javascript", "Node js","Express js", "Tailwind"]
+     
+  },
+  {
     "title": "Website-based Simon Game ",
     "imageSrc": "projects/SimonGame.jpg",
     "description": "The game involves a sequence of colored buttons that light up and play sounds, which the player needs to replicate. ",
     "skills": ["Javascript", "CSS", "HTML"],
     "LiveLink": "https://aniket-simongame.netlify.app/"
-  },
-  {
-    "title": "Currency-Converter App ",
-    "imageSrc": "projects/curr.png",
-    "description": "A website that convert one Country’s Currency into another one.Goal to learn various React concept through this project",
-    "skills": ["React", "Javascript", "CSS", "BOOTSTRAP"],
-     "LiveLink": "https://aniket-currencyconverter.netlify.app/"
-  },
-  {
-    "title": "Tic-Tac-Toe Game ",
-    "imageSrc": "projects/tictoe.jpg",
-    "description": "Tic-tac-toe is a classic two-player game played on a 3x3 grid. Players take turns marking either an X or an O in an empty square. Always Gives Notalgic feel",
-     "skills": ["React", "Javascript", "CSS", "BOOTSTRAP"],
-    "LiveLink": "https://6839f471572570a6fd28612d--anikettictactoe.netlify.app/"
   }
 ]

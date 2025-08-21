@@ -17,10 +17,10 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
-              <h3>Frontend Developer</h3>
+              <h3> Full-Stack  Developer</h3>
               <p>
-                I'm a frontend developer with experience in building responsive
-                and optimized sites
+                I'm a Full-Stack developer with experience in building responsive
+                and optimized sites.Proficient in Java, JavaScript, React.js, Node.js, Express.js, and MongoDB.
                
             </p>
             </div>
@@ -39,7 +39,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>TOOLS & Framework</h3>
               <p>
-              Familier to tools like Git & Github & Framework like React, tailwind & Bootstrap 
+              Familier to tools like Git & Github , JWT ,POSTMAN & Framework like React, tailwind & Bootstrap 
               </p>
             </div>
           </li>
