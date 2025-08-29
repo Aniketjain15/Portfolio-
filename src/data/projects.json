@@ -1,23 +1,17 @@
 [
   {
-    "title": "BookVerse",
+    "title": "BookVerse – Full-Stack Bookstore Web App with AI Chatbox",
     "imageSrc": "projects/hero.png",
-    "description": "Designed and developed a full stack online bookstore with admin functionalities.Built a responsive frontend using HTML, CSS, JavaScript, and Tailwind for smooth UX across all devices.Developed a robust backend API using Node.js and Express.js to handle book data, user operations, and server logic.Integrated MongoDB database for storing book inventory, user information, and order  ",
+    "description": "Designed and developed a full stack online bookstore with admin functionalities.Built a responsive frontend using HTML, CSS, JavaScript, and Tailwind for smooth UX across all devices.Developed a robust backend API using Node.js and Express.js to handle book data, user operations, and server logic.Integrated MongoDB database for storing book inventory, user information, and order.Integrated an AI-powered chatbox to assist users with, top-rated books, FAQs, and recent releases.",
     "skills": ["Javascript", "Node js", "Express js" , "MongoDB" , "React js" , "Tailwind"],
     "LiveLink": "https://effulgent-empanada-020b5f.netlify.app"
   },
   {
-    "title": "VocaHire - Al Voice Interview Platform",
-    "imageSrc": "projects/ai.png",
-    "description": "Built a real-time Al voice interview platform using Next.js and Vapi.Integrated voice streaming and Al response via Vapi SDK.Designed responsive UI with Tailwind CSS.Used Firebase for auth and real-time data storage.",
-      "skills": ["Next js", "Javascript", "Node js","Express js", "Tailwind"]
+    "title": "AI Powered LMS Website with MERN Stack ",
+    "imageSrc": "projects/pro2.png",
+    "description": "Built a full-stack LMS platform featuring AI-powered smart search(Gemini API) for personalized course discovery & recommendations.Implemented Google OAuth 2.0 authentication and Razorpay payment gateway for secure access and seamless transactions.Designed role-based dashboards for students and instructors, enabling course creation, progress tracking, and performance analytics.Developed a fully responsive modern UI with React, Tailwind CSS, and Redux Toolkit for scalable state management and smooth user experience.",
+      "skills": ["Javascript", "Node js", "Express js" , "MongoDB" , "React js" , "Tailwind" , "Gemini/OpenAI API"]
      
-  },
-  {
-    "title": "Website-based Simon Game ",
-    "imageSrc": "projects/SimonGame.jpg",
-    "description": "The game involves a sequence of colored buttons that light up and play sounds, which the player needs to replicate. ",
-    "skills": ["Javascript", "CSS", "HTML"],
-    "LiveLink": "https://aniket-simongame.netlify.app/"
   }
+
 ]
